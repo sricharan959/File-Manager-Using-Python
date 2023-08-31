@@ -1,0 +1,5 @@
+Linear regression
+Decision tree
+Logistic regression
+Support Vector Machines (SVM)
+Naive Bayes
